@@ -11,12 +11,15 @@
 
 > A single-file, private, browser-based menstrual cycle tracker that predicts periods and fertile windows a full year out, gives phase-by-phase wellness guidance, and includes an AI companion for personalized questions.
 
+**[🌙 Try Luna Live](https://akshatsingh1427.github.io/Luna/)**
+
 </div>
 
 ---
 
 ## Table of Contents
 
+- [Live Demo](#-live-demo)
 - [What It Does](#what-it-does)
 - [Key Features](#key-features)
 - [How Predictions Work](#how-predictions-work)
@@ -25,6 +28,16 @@
 - [Tech Stack](#tech-stack)
 - [How to Run](#how-to-run)
 - [Notes for Further Development](#notes-for-further-development)
+
+---
+
+## 🌐 Live Demo
+
+**[https://akshatsingh1427.github.io/Luna/](https://akshatsingh1427.github.io/Luna/)**
+
+Hosted on GitHub Pages — open the link and complete the one-time setup to start.
+
+> Note: the live version calls the Anthropic API client-side for Luna AI. Without a wired-up key/proxy, chat requests will fall back to the built-in offline responder rather than fail outright.
 
 ---
 
